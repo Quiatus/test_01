@@ -32,7 +32,7 @@ def main(args):
             print(f'{password} was found {count} times!')
         else:
             print(f'{password} was not found!')
-    return ('Completed!')
+    return ('Action completed!')
 
 
 main(sys.argv[1:])
